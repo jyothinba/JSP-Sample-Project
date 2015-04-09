@@ -8,10 +8,11 @@
 </head>
 <body>
 	<center>
-		<font color="gray" size="7"> Hello World! </font> <br> <br>
-		<font color="gray" size="5"> The date now is: <%=new java.util.Date()%>
-		<%= "Hello World" %>
-		Sum of two numbers: <%= 5+7 %>
+		<font color="green" size="7"> Hello World! </font> <br> <br>
+		<font color="red" size="5"> The date now: <%=new java.util.Date()%>
+		<br><br>
+		<font color="red" size="5"> This font should be Blue!!</font>  
+		
 		</font>
 	</center>
 </body>
