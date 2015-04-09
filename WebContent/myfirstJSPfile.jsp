@@ -11,7 +11,7 @@
 		<font color="green" size="7"> Hello World! </font> <br> <br>
 		<font color="red" size="5"> The date now: <%=new java.util.Date()%>
 		<br><br>
-		<font color="red" size="5"> This font should be Blue!!</font>  
+		<font color="blue" size="5"> This font should be Blue in color!!</font>  
 		
 		</font>
 	</center>
