@@ -8,8 +8,8 @@
 </head>
 <body>
 	<center>
-		<font color="gray" size="7"> Hello World! </font> <br> <br>
-		<font color="gray" size="5"> The date now is: <%=new java.util.Date()%>
+		<font color="green" size="7"> Hello World! </font> <br> <br>
+		<font color="red" size="5"> The date now: <%=new java.util.Date()%>
 		</font>
 	</center>
 </body>
