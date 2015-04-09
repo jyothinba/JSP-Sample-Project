@@ -11,7 +11,7 @@
 		<font color="gray" size="7"> Hello World! </font> <br> <br>
 		<font color="gray" size="5"> The date now is: <%=new java.util.Date()%>
 		<%= "Hello World" %>
-		Sum of two numbers: <%= 5+7 %>
+		Sum of two numbers: <%=15+18  %>
 		</font>
 	</center>
 </body>
